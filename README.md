@@ -15,6 +15,7 @@ Image of the program running
 #### Commands:  
 * Press a to apply a constant force to the left  
 * Press z to apply a constant force to the right  
+
 When the user doesn't press any key there is no external force applied.
 
 
