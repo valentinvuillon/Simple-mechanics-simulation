@@ -7,3 +7,6 @@ Press a to apply a constant force to the left
 Press z to apply a constant force to the right  
 
 The integration method to obtain the velocity and position is the forward Euler method. The method is called four times between each frames.
+
+Image of the program running:  
+![IMAGE!](pictures/screenshot.png)
