@@ -13,7 +13,9 @@ Image of the program running
  Simply install Processing and run the simple_mechanics_sim.pde code.  
 
 #### Commands:  
-Press a to apply a constant force to the left  
-Press z to apply a constant force to the right  
+* Press a to apply a constant force to the left  
+* Press z to apply a constant force to the right  
+When the user doesn't press any key there is no external force applied.
+
 
 
