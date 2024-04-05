@@ -2,8 +2,8 @@ This is a simulation of a square of mass m, which is on a surface with a frictio
 
 How to run the code: simply install Processing and run the simple_mechanics_sim.pde code.  
 
-Commands:
-Press a to apply a constant force to the left
-Press z to apply a constant force to the right
+Commands:  
+Press a to apply a constant force to the left  
+Press z to apply a constant force to the right  
 
 The integration method to obtain the velocity and position is the forward Euler method. The method is called four times between each frames.
